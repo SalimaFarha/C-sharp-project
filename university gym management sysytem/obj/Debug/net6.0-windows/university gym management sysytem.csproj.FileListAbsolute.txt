@@ -1,0 +1,64 @@
+C:\Users\Admin\OneDrive\Pictures\university gym management sysytem\bin\Debug\net6.0-windows\university gym management sysytem.exe
+C:\Users\Admin\OneDrive\Pictures\university gym management sysytem\bin\Debug\net6.0-windows\university gym management sysytem.deps.json
+C:\Users\Admin\OneDrive\Pictures\university gym management sysytem\bin\Debug\net6.0-windows\university gym management sysytem.runtimeconfig.json
+C:\Users\Admin\OneDrive\Pictures\university gym management sysytem\bin\Debug\net6.0-windows\university gym management sysytem.dll
+C:\Users\Admin\OneDrive\Pictures\university gym management sysytem\bin\Debug\net6.0-windows\university gym management sysytem.pdb
+C:\Users\Admin\OneDrive\Pictures\university gym management sysytem\obj\Debug\net6.0-windows\university gym management sysytem.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Pictures\university gym management sysytem\obj\Debug\net6.0-windows\university_gym_management_sysytem.Form1.resources
+C:\Users\Admin\OneDrive\Pictures\university gym management sysytem\obj\Debug\net6.0-windows\university_gym_management_sysytem.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Pictures\university gym management sysytem\obj\Debug\net6.0-windows\university gym management sysytem.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Pictures\university gym management sysytem\obj\Debug\net6.0-windows\university gym management sysytem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Pictures\university gym management sysytem\obj\Debug\net6.0-windows\university gym management sysytem.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Pictures\university gym management sysytem\obj\Debug\net6.0-windows\university gym management sysytem.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Pictures\university gym management sysytem\obj\Debug\net6.0-windows\university gym management sysytem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Pictures\university gym management sysytem\obj\Debug\net6.0-windows\university gym management sysytem.dll
+C:\Users\Admin\OneDrive\Pictures\university gym management sysytem\obj\Debug\net6.0-windows\refint\university gym management sysytem.dll
+C:\Users\Admin\OneDrive\Pictures\university gym management sysytem\obj\Debug\net6.0-windows\university gym management sysytem.pdb
+C:\Users\Admin\OneDrive\Pictures\university gym management sysytem\obj\Debug\net6.0-windows\university gym management sysytem.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Pictures\university gym management sysytem\obj\Debug\net6.0-windows\ref\university gym management sysytem.dll
+C:\Users\Admin\OneDrive\Pictures\university gym management sysytem\obj\Debug\net6.0-windows\university_gym_management_sysytem.New_Member.resources
+C:\Users\Admin\OneDrive\Pictures\university gym management sysytem\obj\Debug\net6.0-windows\university_gym_management_sysytem.New_Staff.resources
+C:\Users\Admin\OneDrive\Pictures\university gym management sysytem\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\OneDrive\Pictures\university gym management sysytem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\OneDrive\Pictures\university gym management sysytem\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\OneDrive\Pictures\university gym management sysytem\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\OneDrive\Pictures\university gym management sysytem\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\OneDrive\Pictures\university gym management sysytem\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\OneDrive\Pictures\university gym management sysytem\obj\Debug\net6.0-windows\university gym management sysytem.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Pictures\university gym management sysytem\obj\Debug\net6.0-windows\university_gym_management_sysytem.Equipment.resources
+C:\Users\Admin\OneDrive\Pictures\university gym management sysytem\obj\Debug\net6.0-windows\university_gym_management_sysytem.ViewEquipment.resources
+C:\Users\Admin\OneDrive\Pictures\university gym management sysytem\obj\Debug\net6.0-windows\university_gym_management_sysytem.SearchMember.resources
+C:\Users\Admin\OneDrive\Pictures\university gym management sysytem\obj\Debug\net6.0-windows\university_gym_management_sysytem.DeleteMember.resources
+C:\Users\Admin\OneDrive\Pictures\university gym management sysytem\obj\Debug\net6.0-windows\university_gym_management_sysytem.Login.resources
+G:\New folder\projects\c#\university gym management sysytem\university gym management sysytem\bin\Debug\net6.0-windows\university gym management sysytem.exe
+G:\New folder\projects\c#\university gym management sysytem\university gym management sysytem\bin\Debug\net6.0-windows\university gym management sysytem.deps.json
+G:\New folder\projects\c#\university gym management sysytem\university gym management sysytem\bin\Debug\net6.0-windows\university gym management sysytem.runtimeconfig.json
+G:\New folder\projects\c#\university gym management sysytem\university gym management sysytem\bin\Debug\net6.0-windows\university gym management sysytem.dll
+G:\New folder\projects\c#\university gym management sysytem\university gym management sysytem\bin\Debug\net6.0-windows\university gym management sysytem.pdb
+G:\New folder\projects\c#\university gym management sysytem\university gym management sysytem\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+G:\New folder\projects\c#\university gym management sysytem\university gym management sysytem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+G:\New folder\projects\c#\university gym management sysytem\university gym management sysytem\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+G:\New folder\projects\c#\university gym management sysytem\university gym management sysytem\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+G:\New folder\projects\c#\university gym management sysytem\university gym management sysytem\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\New folder\projects\c#\university gym management sysytem\university gym management sysytem\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\New folder\projects\c#\university gym management sysytem\university gym management sysytem\obj\Debug\net6.0-windows\university gym management sysytem.csproj.AssemblyReference.cache
+G:\New folder\projects\c#\university gym management sysytem\university gym management sysytem\obj\Debug\net6.0-windows\university_gym_management_sysytem.DeleteMember.resources
+G:\New folder\projects\c#\university gym management sysytem\university gym management sysytem\obj\Debug\net6.0-windows\university_gym_management_sysytem.Equipment.resources
+G:\New folder\projects\c#\university gym management sysytem\university gym management sysytem\obj\Debug\net6.0-windows\university_gym_management_sysytem.Form1.resources
+G:\New folder\projects\c#\university gym management sysytem\university gym management sysytem\obj\Debug\net6.0-windows\university_gym_management_sysytem.Login.resources
+G:\New folder\projects\c#\university gym management sysytem\university gym management sysytem\obj\Debug\net6.0-windows\university_gym_management_sysytem.New_Member.resources
+G:\New folder\projects\c#\university gym management sysytem\university gym management sysytem\obj\Debug\net6.0-windows\university_gym_management_sysytem.New_Staff.resources
+G:\New folder\projects\c#\university gym management sysytem\university gym management sysytem\obj\Debug\net6.0-windows\university_gym_management_sysytem.Properties.Resources.resources
+G:\New folder\projects\c#\university gym management sysytem\university gym management sysytem\obj\Debug\net6.0-windows\university_gym_management_sysytem.SearchMember.resources
+G:\New folder\projects\c#\university gym management sysytem\university gym management sysytem\obj\Debug\net6.0-windows\university_gym_management_sysytem.ViewEquipment.resources
+G:\New folder\projects\c#\university gym management sysytem\university gym management sysytem\obj\Debug\net6.0-windows\university gym management sysytem.csproj.GenerateResource.cache
+G:\New folder\projects\c#\university gym management sysytem\university gym management sysytem\obj\Debug\net6.0-windows\university gym management sysytem.GeneratedMSBuildEditorConfig.editorconfig
+G:\New folder\projects\c#\university gym management sysytem\university gym management sysytem\obj\Debug\net6.0-windows\university gym management sysytem.AssemblyInfoInputs.cache
+G:\New folder\projects\c#\university gym management sysytem\university gym management sysytem\obj\Debug\net6.0-windows\university gym management sysytem.AssemblyInfo.cs
+G:\New folder\projects\c#\university gym management sysytem\university gym management sysytem\obj\Debug\net6.0-windows\university gym management sysytem.csproj.CoreCompileInputs.cache
+G:\New folder\projects\c#\university gym management sysytem\university gym management sysytem\obj\Debug\net6.0-windows\university gym management sysytem.csproj.CopyComplete
+G:\New folder\projects\c#\university gym management sysytem\university gym management sysytem\obj\Debug\net6.0-windows\university gym management sysytem.dll
+G:\New folder\projects\c#\university gym management sysytem\university gym management sysytem\obj\Debug\net6.0-windows\refint\university gym management sysytem.dll
+G:\New folder\projects\c#\university gym management sysytem\university gym management sysytem\obj\Debug\net6.0-windows\university gym management sysytem.pdb
+G:\New folder\projects\c#\university gym management sysytem\university gym management sysytem\obj\Debug\net6.0-windows\university gym management sysytem.genruntimeconfig.cache
+G:\New folder\projects\c#\university gym management sysytem\university gym management sysytem\obj\Debug\net6.0-windows\ref\university gym management sysytem.dll
